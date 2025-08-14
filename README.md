@@ -17,7 +17,7 @@ This project is part of a virtual internship challenge by Deloitte. It involves 
 - **Laser Welder** was the most unhealthy machine type in that factory.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Screenshot%202025-07-03%20182212.png)
+![Dashboard Screenshot](https://github.com/RithikaAnalyst/Internship-Telemetry-Tableau-Project-/blob/main/Screenshot%202025-07-03%20182212.png)
 
 ## Tableau Link
 _[LINK](https://public.tableau.com/app/profile/rithika.r7940/viz/DaikiboTelemetryAnalysis_17516539728100/Dashboard1?publish=yes)_
